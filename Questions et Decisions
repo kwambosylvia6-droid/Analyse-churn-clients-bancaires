@@ -1,0 +1,28 @@
+ Questions métier
+
+- Quel est le taux de churn (Attrition) des clients ?
+- Quels pays enregistrent le plus de départs ?
+- Quel est le profil des clients qui quittent la banque ?
+- L’âge influence-t-il le départ des clients ?
+- Les clients inactifs quittent-ils davantage la banque ?
+- Le nombre de produits détenus est-il lié au churn ?
+- Le sexe influence-t-il le taux de départ ?
+- La possession d’une carte bancaire a-t-elle un impact sur le churn ?
+- Le solde bancaire est-il différent entre les clients partis et ceux restés ?
+
+##  Résultats de l’analyse
+
+- Les clients plus âgés présentent un taux de churn plus élevé.
+- Les clients inactifs quittent davantage la banque que les clients actifs.
+- L’Allemagne présente un taux de churn plus élevé que la France et l’Espagne.
+- Le churn varie fortement selon le nombre de produits détenus.
+- Les femmes présentent un taux de churn supérieur à celui des hommes.
+- La possession d’une carte bancaire présente une différence faible entre les clients partis et ceux restés.
+- Les clients partis présentent en moyenne un solde bancaire plus élevé.
+
+##  Décisions prises
+
+- Accorder une attention particulière aux clients âgés.
+- Mettre en place des actions de fidélisation pour les clients inactifs.
+- Utiliser le dashboard Power BI pour suivre régulièrement les indicateurs de churn.
+- Adapter les actions de fidélisation aux différents profils de clients.
